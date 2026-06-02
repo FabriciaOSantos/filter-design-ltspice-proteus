@@ -1,6 +1,6 @@
 # Filter Design with LTspice, Proteus and Arduino
 
-Academic project focused on analog and digital filter design, simulation and implementation support.
+Academic project for Digital Signals Processing course, focused on analog and digital filter design, simulation and implementation support.
 
 ## Overview
 
